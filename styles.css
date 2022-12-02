@@ -1,0 +1,68 @@
+header {
+  background-image: url("https://cdn.discordapp.com/attachments/889335290232201246/1047870263003463710/unknown.png");
+  margin-bottom: -30px;
+  background-size: cover;
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  font: helvetica;
+}
+img {
+  border: 5px solid rgba(75, 3, 75, 0.314);
+  border-radius: 50px;
+  margin: 50px;
+}
+ul {
+  padding: 10px;
+  list-style: none;
+  background: rgba(100, 0, 255, 0.1);
+}
+li {
+  padding: 0px 20px 0px 20px;
+  display: inline;
+  font-size: 20px;
+}
+body {
+  background: url("https://cdn.discordapp.com/attachments/889335290232201246/1047872526635778048/unknown.png");
+  color: rgb(144, 104, 220);
+  font-size: 25px;
+  font-family: 'Chicle', cursive;
+}
+h1 {
+  font-size: 50px;
+  margin-top: -113px;
+  color: rgb(243, 115, 241);
+}
+a {
+  color: rgb(255, 86, 252);
+}
+h2 {
+  font-size: 80px;
+  margin-top: -50px;
+  color: rgb(255, 86, 252);
+}
+h3 {
+  font-size: 50px;
+  padding: 25px;
+  text-align: center;
+}
+p {
+  line-height: 60px;
+  color: rgb(221, 203, 255);
+}
+.commisions {
+  background-color: rgba(255, 86, 252, 0.75);
+  border: 5px dashed pink;
+  border-radius: 20px;
+  display: block;
+  justify-content: center;
+  text-align: center;
+  margin-top: -50px;
+  margin-bottom: 100px;
+  margin-right: 500px;
+  margin-left: 500px;
+  padding-bottom: 35px;
+}
+.buy-btn {
+  margin-top: 40px;
+}
